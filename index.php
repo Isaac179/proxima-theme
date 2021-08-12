@@ -19,6 +19,8 @@
         </div>
         </div>
 
+        <!-- ejemplo actualizacion git -->
+
     <!-- <div class="row seccion-pagina">
         <div class="cuadricula">
             <div class="cuadro grande-1 medio-2 chico-12">
