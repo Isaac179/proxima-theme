@@ -50,7 +50,7 @@
 	<?php
 
 	/**
-	 *CLTVO: poner esto en true sólo en la versiones locales.
+	 *CLTVO: poner esto en true sólo en la versiones locales prueba git.
 	 */
 
 	if( !defined('CLTVO_ISLOCAL') || ( CLTVO_ISLOCAL != true) ){ include_once('inc/analytics.php'); }
